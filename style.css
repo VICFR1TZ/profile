@@ -1,5 +1,5 @@
 /* In this following part, the headers 1-3 are defined */
-@import url('https://kit.fontawesome.com/d028b7e613.js');
+/* @import url('https://kit.fontawesome.com/d028b7e613.js');*/
 @import url('https://use.fontawesome.com/releases/v5.7.1/css/all.css');
 
 
@@ -110,12 +110,14 @@ div {
   display: inline-block;
 }
 
-.social-buttons {
+
+.list-inline i {
   font-size: 50px;
   color: #00664d;
 }
 
 /*
+ class="social-buttons"
 Specs
 This is an example of what you need to create. Here is a list of CSS rules to write:
 
